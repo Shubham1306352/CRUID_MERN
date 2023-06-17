@@ -1,0 +1,78 @@
+.add_btn{
+  text-align: left;
+}
+
+.container{
+  overflow: auto;
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.left_view p{
+  font-weight: 600;
+}
+
+.left_view span{
+  font-weight: 400;
+}
+
+.right_view p{
+  font-weight: 600;
+}
+
+
+.right_view span{
+  font-weight: 400;
+}
+
+
+.form-control{
+  background-color:rgb(223, 231, 231);
+}
+
+.crossbotton{
+  color:gray;
+  border-color:none;
+  background-color: white;
+  margin-left:1250px;
+  
+}
+
+.crossbotton:hover{
+ color:red; 
+}
+
+.ct{
+  background-color:gray;
+  color:white;
+  height:50px;
+  width:100px;
+  border-radius:10px;
+  margin-left:1200px;
+  border-color:white;
+
+}
+
+thead{
+  border-bottom: black;
+  border-bottom-width: thick;
+}
+
+.bar{
+  margin-top:6px;
+  color:rgb(21, 141, 141)
+}
+
+.navbar-brand{
+  margin-left:650px;
+}
+
+hr{
+  color: #ddd;
+    background-color: #ddd;
+    height: 2px;
+    border: none;
+    max-width: 100%
+}
